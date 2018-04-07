@@ -1,9 +1,9 @@
 function shout(string)
 {
-  return  string.toUppercase();
+  return  string.toUppercase()
 }
 
 function whisper(string)
 {
-  return string.toLower();
+  return string.toLower()
 }
